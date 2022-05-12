@@ -1,0 +1,5 @@
+h1  { font-family:tahoma; }
+
+p  { color:blue;  }
+
+body  {backround-color:#FFFF96;  }

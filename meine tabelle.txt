@@ -1,0 +1,62 @@
+<html>
+<head>
+<body>
+
+<table>
+
+<table width="800" border="1">
+<th colspan="4">Installation neue PC</th>
+</tr>
+</head>
+</body>
+<head>
+<body>
+<tr>
+
+<th>Abteilung</th>
+<th>Geplante PC</th>
+<th>Intallationtermine</th>
+<th>Kosten</th>
+
+</tr>
+</head>
+</body>
+<head>
+<body>
+<tr>
+
+<td>Einkauf</td>
+<td>2 Desktops</td>
+<td>August</td>
+<td>2200€</td>
+
+</tr>
+</head>
+</body>
+<head>
+<body>
+<tr>
+<td>Verkauf</td>
+<td>2 Laptops</td>
+<td>September</td>
+<td>4600€</td>
+
+</tr>
+</head>
+</body>
+<head>
+<body>
+<tr>
+
+<td>Lager</td>
+<td>1 Desktop 1 Laptop</td>
+<td>Oktober</td>
+<td>3400€</td>
+</tr>
+</head>
+</body>
+<html>
+</table>
+
+
+

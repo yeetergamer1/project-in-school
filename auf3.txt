@@ -1,0 +1,24 @@
+<html>
+
+<head>
+
+<title> die Einwicklung des www </title>
+<link rel="stylesheet" type="text/css"
+href="neu.css">
+
+</head>
+<body>
+<h1> Die erste webseite </h1>
+<p> 
+Die <b> erste </b> webseite wurde an der Europaeishen organisation fuer kernforschung entwickelt.
+</p>
+<p>
+sie wurde 1989 von <i> Tim Berners-Lee </i>vorgestellt.
+</p>
+</body>
+<img src="foto von Tim Berners-lee.jpg" width="500">
+<p><A HREF=http://cern.ch> Europaishe Organisation für kernforshung</>
+<p><A HREF=under construction.html>zur nächste seite</>
+
+</p>
+</html>

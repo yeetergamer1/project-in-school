@@ -1,0 +1,37 @@
+<html>
+<head>
+<title> BOB-Raum </title>
+
+<body bgcolor=aqua>
+
+<img src="Benzenberg.jpg" width="100">
+
+ <font size="8" face="Arial" color="0000FF"> BOB-Raum
+ <h2><font size="5"font color="red" face="Times New Riman, Times, serif"><i> Schuljahr 2015/2016</i></font></h2>
+
+ <font size="5" face="arial" color="black">
+
+ <p>Willkommen im BOB-Raum der Benzenberg-Realschule</p>
+
+ <font size="3" face="arial" color="black">Hier geht es zu den aktuellen 
+ <A HREF=<p><A HREF=http://schulen.duesseldorf.de/rs-siegburgerstr/termine.htm> Terminen</p>
+</A HREF>
+</body>
+</head>
+<body>
+<head>
+
+<p><font size="3" face="arial" color="black">Hier gelangt ihr auf die webseite der
+<A HREF=<p><A HREF= select1> Benzenberg-Realschule</p>
+ </A HREF>
+</body>
+</head>
+<body>
+<head>
+
+<p><font size="3" face="arial" color="black"> Informationen zu
+<A HREF=<p><A HREF=select2> berufswalhpass</p>
+
+</body>
+</head>
+</html>
